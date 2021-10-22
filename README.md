@@ -6,7 +6,7 @@
 
   Dataset adalah sebuah kumpulan data yang bersifat sebagai himpunan data yang berasal dari informasi-informasi pada masa sebelumnya dan siap untuk dikelola menjadi sebuah informasi baru dengan menggunakan teknik pembelajaran superised learning. Dimana digunakan untuk sistem prediksi sebagai acuan pendukung keputusan.
 
-  Tujuan dari dataset adalah untuk menguji suatu metode penelitian yang dikembangkan oleh para pakar peneliti dengan public dataset maupun private dataset. Untuk lebih jelasnya kamu bisa membaca artikel tentang jenis dataset dan bagian dari dataset.
+  Tujuan dari dataset adalah untuk menguji suatu metode penelitian yang dikembangkan oleh para pakar peneliti dengan public dataset maupun private dataset. Untuk lebih jelasnya kamu bisa membaca artikel tentang <a href="https://www.pengalaman-edukasi.com/2020/06/dataset-adalah-data-untuk-data-mining.html"> jenis dataset dan bagian dari dataset.</a>
 
   Dataset sendiri tidak serta merta didapatkan dengan mudah, karena harus mempunyai tujuan yang bersifat Comparable, repetable dan veriviable. Jenis dataset sendiri harus bisa pilah agar bisa memilih sebuah metode apa yang nantinya akan digunakan untuk penelitian dengan menggunakan pembelajaran supervised learning.
 

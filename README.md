@@ -1,6 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5f47ace076731e4c0243506b/1613553171234-ZUSGE9QEWEOGYSPV5A8L/20210215+AI.png" width="400"></a></p>
 
-
+## Mata Kuliah Kecerdasan Buatan
+  Mata Kuliah Kecerdasan Buatan memberikan gambaran kepada mahasiswa tentang teori, implementasi dan bagaimana mendesain suatu problem di rekayasa ke elektroan dengan menggunakan algoritma dan teknik kecerdasan buatan. Sejarah perkembangan kecerdasan buatan dan implementasinya di dunia industry dijelaskan untuk memberikan gambaran apa saja yang dapat dilakukan dengan  menggunakan kecerdasan buatan. Beberapa teknik kecerdasan dijabarkan pada perkuliahan ini diantaranya JST, logika fuzzy, SVM dan beberapa teknik optimalisasi dengan implementasinya. Dengan semakin  berkembangnya teknologi kecerdasan buatan ini perlu kenalkan ke peserta didik bagaimana rekayasa ini digunakan untuk menyelesaikan permasalahan sehari-hari seperti untuk peramalan, pengelompokan dan pengambilan keputusan. Dengan memperhatikan penggunaan dan pemilihan teknik kecerdasan buatan yang sesuai maka penyelesaian permasalahan keteknikelektroan akan dapat segera teratasi dalam tempo yang singkat dan akurasi yang tinggi.
 
 ## Dataset
 

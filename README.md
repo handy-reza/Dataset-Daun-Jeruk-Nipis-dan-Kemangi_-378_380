@@ -26,3 +26,21 @@ Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 
 2. Daun Kemangi
 <img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" width="400">
 <img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" width="400">
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>

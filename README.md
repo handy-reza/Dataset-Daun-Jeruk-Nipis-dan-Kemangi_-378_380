@@ -19,7 +19,7 @@ Anggota kelompok :
 1. Handy Reza Alfanda   (2019 - 378)
 2. Cholid Firdaus Abada (2019 - 380)
 
-Dalam tugas ini kami membuuat dataset yang terdiri dari 2 label daun tanaman herbal yaitu :
+Dalam tugas ini kami membuat dataset yang terdiri dari 2 label daun tanaman herbal yaitu :
 
 <table style="width:100%">
   <tr>

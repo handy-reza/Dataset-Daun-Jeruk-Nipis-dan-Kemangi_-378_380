@@ -1,1 +1,1 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cropland.be%2Fyour-ai-project&psig=AOvVaw0qLx6CQSYKxaPD8EW3l4gq&ust=1635002037356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCgscmn3vMCFQAAAAAdAAAAABAK" width="400"></a></p>

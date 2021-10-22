@@ -13,4 +13,4 @@
 
 ##Overfiew Tugas
 
-**Note:** Dataset ini dibuat untuk memenuhi tugas kecerdasan buatan 
+> **Note:** Dataset ini dibuat untuk memenuhi tugas kecerdasan buatan 

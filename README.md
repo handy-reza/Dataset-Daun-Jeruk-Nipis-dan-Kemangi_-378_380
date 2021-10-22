@@ -11,6 +11,14 @@
   Dataset sendiri tidak serta merta didapatkan dengan mudah, karena harus mempunyai tujuan yang bersifat Comparable, repetable dan veriviable. Jenis dataset sendiri harus bisa pilah agar bisa memilih sebuah metode apa yang nantinya akan digunakan untuk penelitian dengan menggunakan pembelajaran supervised learning.
 
 
-##Overfiew Tugas
+## Tugas 
 
 > **Note:** Dataset ini dibuat untuk memenuhi tugas mata kuliah kecerdasan buatan 
+
+Anggota kelompok :
+1. Handy Reza Alfanda   (2019 - 378)
+2. Cholid Firdaus Abada (2019 - 380)
+
+Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 label daun herbal yaitu :
+- [Daun Jeruk Nipis]https://id.wikipedia.org/wiki/Jeruk_nipis
+- [Daun Kemangi]https://id.wikipedia.org/wiki/Kemangi#:~:text=5%20Referensi-,Deskripsi,hijau%20muda%20dan%20berbau%20harum.

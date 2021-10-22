@@ -23,14 +23,14 @@ Dalam tugas ini kami membuat dataset yang terdiri dari 2 label daun tanaman herb
   <tr>
     <td>1</td>
     <td><a href="https://id.wikipedia.org/wiki/Jeruk_nipis">Jeruk Nipis</a></td>
-    <td width="500">Sebagai daun herbal daun jeruk nipis dapat melawan influenza dengan memproduksi plasma darah putih sebagai imun alami tubuh. Daun jeruk nipis bisa dikonsumsi sebagai bahan campuran masakan seperti salad, sop atau dapat juga dituangkan ke dalam air minum. </td>
-    <td><img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" height="200" width="300">
+    <td>Sebagai daun herbal daun jeruk nipis dapat melawan influenza dengan memproduksi plasma darah putih sebagai imun alami tubuh. Daun jeruk nipis bisa dikonsumsi sebagai bahan campuran masakan seperti salad, sop atau dapat juga dituangkan ke dalam air minum. </td>
+    <td width="350"><img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" height="200" width="300">
 <img src="https://static.duta.co/wp-content/uploads/2017/12/jeruknipis-696x522.jpg" height="200" width="300"></td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="https://id.wiktionary.org/wiki/kemangi">Kemangi</a></td>
-    <td><img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" height="200" width="300">
+    <td width="350"><img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" height="200" width="300">
 <img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" height="200" width="300"></td>
   </tr>
 </table>

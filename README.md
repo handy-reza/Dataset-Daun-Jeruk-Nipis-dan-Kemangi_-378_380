@@ -31,13 +31,13 @@ Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 
   <tr>
     <td>1</td>
     <td>Jeruk nipis</td>
-    <td><img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" height="150" width="150">
-<img src="https://static.duta.co/wp-content/uploads/2017/12/jeruknipis-696x522.jpg" height="150" width="150"></td>
+    <td><img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" height="250" width="250">
+<img src="https://static.duta.co/wp-content/uploads/2017/12/jeruknipis-696x522.jpg" height="250" width="250"></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Kemangi</td>
-    <td><img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" height="150" width="150">
-<img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" height="150" width="150"></td>
+    <td><img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" height="250" width="250">
+<img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" height="250" width="250"></td>
   </tr>
 </table>

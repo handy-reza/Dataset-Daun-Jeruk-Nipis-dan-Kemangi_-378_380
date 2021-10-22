@@ -20,8 +20,9 @@ Anggota kelompok :
 2. Cholid Firdaus Abada (2019 - 380)
 
 Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 label daun tanaman herbal yaitu :
-- [Daun Jeruk Nipis](https://id.wikipedia.org/wiki/Jeruk_nipis)
+1 Daun Jeruk Nipis
 <img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" width="400">
 <img src="https://static.duta.co/wp-content/uploads/2017/12/jeruknipis-696x522.jpg" width="400">
-- [Daun Kemangi](https://id.wikipedia.org/wiki/Kemangi)
-- [Daun Jeruk Nipis](https://id.wikipedia.org/wiki/Jeruk_nipis)
+2 Daun Kemangi
+<img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" width="400">
+<img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" width="400">

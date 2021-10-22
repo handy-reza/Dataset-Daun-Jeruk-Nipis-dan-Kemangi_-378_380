@@ -19,6 +19,7 @@ Anggota kelompok :
 1. Handy Reza Alfanda   (2019 - 378)
 2. Cholid Firdaus Abada (2019 - 380)
 
-Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 label daun herbal yaitu :
+Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 label daun tanaman herbal yaitu :
 - [Daun Jeruk Nipis](https://id.wikipedia.org/wiki/Jeruk_nipis)
+<img src="https://statik.tempo.co/data/2021/01/26/id_996475/996475_720.jpg" width="400">
 - [Daun Kemangi](https://id.wikipedia.org/wiki/Kemangi#:~:text=5%20Referensi-,Deskripsi,hijau%20muda%20dan%20berbau%20harum.)

@@ -1,1 +1,1 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://image.freepik.com/free-vector/isometric-icon-with-woman-using-personal-assistant-planner-application-laptop-3d_1284-63047.jpg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5f47ace076731e4c0243506b/1613553171234-ZUSGE9QEWEOGYSPV5A8L/20210215+AI.png" width="400"></a></p>

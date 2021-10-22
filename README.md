@@ -20,5 +20,5 @@ Anggota kelompok :
 2. Cholid Firdaus Abada (2019 - 380)
 
 Dalam tugas ini kami diberikan tugas untuk membuuat dataset yang terdiri dari 2 label daun herbal yaitu :
-- [Daun Jeruk Nipis]https://id.wikipedia.org/wiki/Jeruk_nipis
-- [Daun Kemangi]https://id.wikipedia.org/wiki/Kemangi#:~:text=5%20Referensi-,Deskripsi,hijau%20muda%20dan%20berbau%20harum.
+- [Daun Jeruk Nipis](https://id.wikipedia.org/wiki/Jeruk_nipis)
+- [Daun Kemangi](https://id.wikipedia.org/wiki/Kemangi#:~:text=5%20Referensi-,Deskripsi,hijau%20muda%20dan%20berbau%20harum.)

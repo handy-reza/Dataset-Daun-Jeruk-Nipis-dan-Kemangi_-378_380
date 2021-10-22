@@ -11,7 +11,7 @@
   Dataset sendiri tidak serta merta didapatkan dengan mudah, karena harus mempunyai tujuan yang bersifat Comparable, repetable dan veriviable. Jenis dataset sendiri harus bisa pilah agar bisa memilih sebuah metode apa yang nantinya akan digunakan untuk penelitian dengan menggunakan pembelajaran supervised learning.
 
 
-## Tugas 
+## Overview Tugas 
 
 > **Note:** Dataset ini dibuat untuk memenuhi tugas mata kuliah kecerdasan buatan 
 

@@ -30,6 +30,7 @@ Dalam tugas ini kami membuat dataset yang terdiri dari 2 label daun tanaman herb
   <tr>
     <td>2</td>
     <td><a href="https://id.wiktionary.org/wiki/kemangi">Kemangi</a></td>
+    <td>Sebagai daun herbal daun kemangi adalah sumber zat besi yang sangat penting untuk menjaga ibu hamil tetap berenergi. Zat besi membantu meningkatkan jumlah hemoglobin dan sel darah merah (RBC) dalam darah. Ini juga dapat membantu mencegah risiko anemia pada ibu hamil. Penguat Imunitas. </td>
     <td width="350"><img src="https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/9-manfaat-kemangi-bagi-kesehatan-dan-ke-57d817.jpg" height="200" width="300">
 <img src="https://statik.tempo.co/data/2020/10/27/id_976445/976445_720.jpg" height="200" width="300"></td>
   </tr>
